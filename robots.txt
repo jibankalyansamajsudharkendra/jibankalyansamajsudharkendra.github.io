@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jibankalyansamajsudharkendra.github.io/sitemap.xml
